@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Check an IP address plan (sites.yaml) for common mistakes.
 
 Exit code 0 = plan is clean, 1 = problems found.
